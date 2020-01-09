@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3507873fae9f9c540a76c81aaf59a4a1
+  - enabled: 1
+    path: Assets/Scenes/Courtyard.unity
+    guid: 25b375b2046bd8b4c816b087bca806f2
+  m_configObjects: {}
